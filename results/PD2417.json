@@ -1,0 +1,85 @@
+{
+  "model": {
+    "name": "iQOO Z9 Turbo+",
+    "device_type": "phone",
+    "model_sw_ver": "PD2417",
+    "device_model": "V2417A",
+    "sw_version": "16.2.12.0.W10",
+    "android_ver": 14,
+    "snp": "A0000000000000A",
+    "is_full": "true"
+  },
+  "checked_at": "2026-10-17T02:10:48+00:00",
+  "result": {
+    "status": "success",
+    "data": {
+      "retcode": 0,
+      "patch": {
+        "version": "16.2.14.1.W10.V000L1",
+        "pk": "https://sysupgrade.vivo.com.cn/pk/redir.do?name=%40a137069%3D%3D13oomKBFnYy1XN8ZHMgInMP6XN41Q0kcyNwJS0kgQYPJQYgOQNzFSNzJQ0wlQNdJQNzjz3kwibnxTakxdK20&fileType=relative&fileLength=9385313287&packageType=patch",
+        "pkName": "202609182211200ad24d8e92137e8092546ba4f0203fa5.zip",
+        "pkSha256": "824225611dcb4574c6002dc66201ddb507c2d34c0baeb19396ff661eb401358f",
+        "pkLen": "9385313287",
+        "h5Zip": "https://sysdesc.vivo.com.cn/upgrade/h5/2026/09/2026092317073299029559-2.zip",
+        "h5ZipSha256": "946893475b617bb3b8d6c263594035271122ef1ae6bd446dac1a95ec2d8ed0d2",
+        "h5Url": "https://sysdesc.vivo.com.cn/upgrade/h5/2026/09/2026092317073299029559-2/index.html",
+        "logVer": 2,
+        "highLightFlag": 0,
+        "way": 0,
+        "waySetting": "{}",
+        "crossVersion": "",
+        "osArdCross": "",
+        "otaType": "AB",
+        "osShowVer": "",
+        "osVer": "Funtouch 16.0",
+        "ardVer": "16",
+        "ggBug": 1,
+        "space": 0,
+        "checkString": ""
+      },
+      "ext": {
+        "isFull": 1,
+        "bannerPic": "https://sysdesc.vivo.com.cn/upgrade/other/files/logo-OS6.svg",
+        "textColor": "255,255,86,102",
+        "storage": 600,
+        "t1": 38,
+        "t2": 50,
+        "t3": 53,
+        "compilationTime": 20,
+        "smallVersionCompilationTime": 3,
+        "bigVersionCompilationTime": 5,
+        "bbklog": 0,
+        "nightUpgrade": 0,
+        "bindChargeDay": 0,
+        "space": 100,
+        "timeStamp": 1792203048664,
+        "logoConfig": "{   \"line1\": [     {       \"text\": \"Origin\",       \"font_weight\": \"90\"     },     {       \"text\": \"OS \",       \"font_weight\": \"40\"     },     {       \"text\": \"6\",       \"font_weight\": \"90\"     }   ] }",
+        "normalLogo": "",
+        "darkLogo": "",
+        "noticeLogo": "",
+        "winLogo": "",
+        "winDarkLogo": "",
+        "logoContent": "",
+        "osVer": "",
+        "apiLevel": "",
+        "ggBugDate": "2026-08-01",
+        "ggInviteSwitch": 3
+      },
+      "download_url": "https://sysupdxdl.vivo.com.cn/upgrade/oem/files/202609182211200ad24d8e92137e8092546ba4f0203fa5.zip"
+    }
+  },
+  "history": [
+    {
+      "version": "16.2.14.1.W10.V000L1",
+      "pkName": "202609182211200ad24d8e92137e8092546ba4f0203fa5.zip",
+      "pkSha256": "824225611dcb4574c6002dc66201ddb507c2d34c0baeb19396ff661eb401358f",
+      "pkLen": "9385313287",
+      "download_url": "https://sysupdxdl.vivo.com.cn/upgrade/oem/files/202609182211200ad24d8e92137e8092546ba4f0203fa5.zip",
+      "h5Url": "https://sysdesc.vivo.com.cn/upgrade/h5/2026/09/2026092317073299029559-2/index.html",
+      "isFull": 1,
+      "ggBugDate": "2026-08-01",
+      "first_seen": "2026-10-17T02:10:48+00:00",
+      "last_seen": "2026-10-17T02:10:48+00:00"
+    }
+  ]
+}
