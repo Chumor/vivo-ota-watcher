@@ -9,17 +9,17 @@
     "snp": "A0000000000000A",
     "is_full": "true"
   },
-  "checked_at": "2026-11-16T07:27:34+00:00",
+  "checked_at": "2026-11-16T20:44:05+00:00",
   "result": {
     "status": "success",
     "data": {
       "retcode": 0,
       "patch": {
-        "version": "16.2.15.0.W10.V000L1",
-        "pk": "https://sysupgrade.vivo.com.cn/pk/redir.do?name=%40a151649%3D%3D13oomKBDH086yZnCnM8ZXZ5hQN8JHNPDHYzNXYkEXNzJyZPJyMzFSNPFQ0whQNdJQNzjz3kwibnxTakxdK56&fileType=relative&fileLength=10262976388&packageType=patch",
-        "pkName": "2026081814112724c2221ef32dd40b0088b606dfc508d5.zip",
-        "pkSha256": "7b6257873a4cd966aab3ede43b1cba47690fb4927c5e41bf49e554b9282718d2",
-        "pkLen": "10262976388",
+        "version": "16.2.17.4.W10.V000L1",
+        "pk": "https://sysupgrade.vivo.com.cn/pk/redir.do?name=%40a102157%3D%3D13oomKPJyMXOS0nMiM5ZSM8ZHYB1QMyDyN8DnMXMiM53QYkYnNyZSM4FyN8FSNdJQNzjz3kwibnxTakxdK40&fileType=relative&fileLength=10297720425&packageType=patch",
+        "pkName": "20261103195632fed785cc6d0343405df05685cf90c724.zip",
+        "pkSha256": "fc19ed160541984f2637fea270c43e40de0dde94dfadd322a89b417362dc467a",
+        "pkLen": "10297720425",
         "h5Zip": "https://sysdesc.vivo.com.cn/upgrade/h5/2025/11/2025112712355380257264-2.zip",
         "h5ZipSha256": "d28914fde9e789c0e8621b5c1ca3c715efa82c06fecda5590b41dbc219d208ea",
         "h5Url": "https://sysdesc.vivo.com.cn/upgrade/h5/2025/11/2025112712355380257264-2/index.html",
@@ -45,14 +45,15 @@
         "t1": 38,
         "t2": 50,
         "t3": 53,
-        "compilationTime": 20,
+        "compilationTime": 0,
         "smallVersionCompilationTime": 3,
         "bigVersionCompilationTime": 5,
+        "syncCompileTime": 0,
         "bbklog": 0,
         "nightUpgrade": 0,
         "bindChargeDay": 0,
         "space": 100,
-        "timeStamp": 1791740732180,
+        "timeStamp": 1794861857302,
         "logoConfig": "{   \"line1\": [     {       \"text\": \"Origin\",       \"font_weight\": \"90\"     },     {       \"text\": \"OS \",       \"font_weight\": \"40\"     },     {       \"text\": \"6\",       \"font_weight\": \"90\"     }   ] }",
         "normalLogo": "",
         "darkLogo": "",
@@ -62,10 +63,10 @@
         "logoContent": "",
         "osVer": "",
         "apiLevel": "",
-        "ggBugDate": "2026-07-01",
+        "ggBugDate": "2026-10-01",
         "ggInviteSwitch": 3
       },
-      "download_url": "https://sysupdxdl.vivo.com.cn/upgrade/oem/files/2026081814112724c2221ef32dd40b0088b606dfc508d5.zip"
+      "download_url": "https://sysupdxdl.vivo.com.cn/upgrade/oem/files/20261103195632fed785cc6d0343405df05685cf90c724.zip"
     }
   },
   "history": [
@@ -80,6 +81,18 @@
       "last_seen": "2026-11-16T07:27:34+00:00",
       "isFull": 1,
       "ggBugDate": "2026-07-01"
+    },
+    {
+      "version": "16.2.17.4.W10.V000L1",
+      "pkName": "20261103195632fed785cc6d0343405df05685cf90c724.zip",
+      "pkSha256": "fc19ed160541984f2637fea270c43e40de0dde94dfadd322a89b417362dc467a",
+      "pkLen": "10297720425",
+      "download_url": "https://sysupdxdl.vivo.com.cn/upgrade/oem/files/20261103195632fed785cc6d0343405df05685cf90c724.zip",
+      "h5Url": "https://sysdesc.vivo.com.cn/upgrade/h5/2025/11/2025112712355380257264-2/index.html",
+      "isFull": 1,
+      "ggBugDate": "2026-10-01",
+      "first_seen": "2026-11-16T20:44:05+00:00",
+      "last_seen": "2026-11-16T20:44:05+00:00"
     }
   ]
 }
